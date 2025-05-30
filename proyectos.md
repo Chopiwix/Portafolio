@@ -57,6 +57,8 @@ Análisis de requisitos, diseño de pruebas negativas y positivas, ejecución en
 **Herramientas:**  
 Postman, apiDoc, Google Sheets, Jira.
 
+📎 [Ver archivo del proyecto](proyectos/proyecto%204/proyecto%204.xlsx)
+
 ### 🍽️ Proyecto 5 – Pruebas funcionales en app móvil: Urban.Lunch (Android)
 
 **Resumen:**  
@@ -77,4 +79,62 @@ Detección de errores críticos en navegación y formularios. Validación comple
 **Resultado:**  
 Detección de errores en reglas de negocio y validación de entregas. Documentación clara para seguimiento técnico.
 
-📎 [Ver archivo del proyecto](proyectos/proyecto%204/proyecto%204.xlsx)
+### 🚕 Proyecto 6 – Análisis de logs y consultas SQL: Sistema de taxis en Chicago
+
+**Resumen:**  
+Simulación de entorno de pruebas para investigar errores mediante logs del sistema y consultas SQL sobre una base de datos real de viajes en taxi en Chicago.
+
+**Rol:**  
+Extracción y organización de errores desde consola Linux; análisis SQL para detectar inconsistencias en datos de flota, clima y viajes.
+
+**Herramientas:**  
+Terminal Linux (bash), PostgreSQL, comandos como `grep`, `awk`, `JOIN`, `GROUP BY`, `CASE`.
+
+**Resultado:**  
+Identificación de errores HTTP organizados por tipo; validación de hipótesis sobre disponibilidad de taxis y condiciones climáticas.
+
+📎 [Ver archivo del proyecto](proyectos/proyecto%206/proyecto%206.docx)
+
+### 🧪 Proyecto 7 – Automatización de pruebas de API: Validación del campo "name" (Urban.Grocers)
+
+**Resumen:**  
+Automatización de pruebas del endpoint `POST /api/v1/kits` para validar el campo `name`, cubriendo entradas válidas, inválidas y límites definidos por los requisitos funcionales.
+
+**Rol:**  
+Diseño y ejecución de pruebas automatizadas autenticadas, validación de respuestas del servidor, control de versiones con GitHub.
+
+**Herramientas:**  
+Postman o framework de automatización, Git/GitHub, servidor de pruebas TripleTen, documentación API (apiDoc).
+
+**Resultado:**  
+Automatización completa y reproducible, con cobertura total de escenarios críticos. Repositorio organizado y listo para revisión técnica.
+
+### 🧭 Proyecto 8 – Automatización end-to-end en Urban Routes (Selenium + Python)
+
+**Resumen:**  
+Automatización del flujo completo de solicitud de taxi en la app web Urban Routes usando Selenium y Python, simulando interacciones reales del usuario.
+
+**Rol:**  
+Configuración del entorno local, implementación con Page Object Model, ejecución de pruebas end-to-end desde origen hasta asignación de conductor.
+
+**Herramientas:**  
+Python, Selenium, Pytest, Git, GitHub.
+
+**Resultado:**  
+Pruebas exitosas con cobertura completa del flujo del usuario. Proyecto documentado y publicado en GitHub con README explicativo.
+
+### 🛴 Proyecto 9 – Pruebas integrales en Urban Scooter (Web, Móvil y API)
+
+**Resumen:**  
+Evaluación completa de calidad para Urban Scooter, incluyendo pruebas funcionales web, validación de interfaz móvil y verificación de endpoints mediante Postman.
+
+**Rol:**  
+Diseño y ejecución de pruebas funcionales, visuales y de API; uso de clases de equivalencia, tablas de decisión y herramientas como Charles Proxy y Figma.
+
+**Herramientas:**  
+DevTools, Postman, Charles Proxy, Figma, Excel.
+
+**Resultado:**  
+Cobertura de calidad en tres niveles. Documentación clara y detección oportuna de errores en funciones clave y experiencia de usuario.
+
+📎 [Ver documentación del proyecto](proyectos/proyecto%209)
