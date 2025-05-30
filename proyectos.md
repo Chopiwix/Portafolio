@@ -142,7 +142,7 @@ Cobertura de calidad en tres niveles. Documentación clara y detección oportuna
 
 📎 [Ver documentación del proyecto](proyectos/proyecto%209)
 
-### 🛒 Proyecto 10 – Simulador de Compras en Línea (Tienda de Autoservicio)
+## 🛒 Proyecto 10 – Simulador de Compras en Línea (Tienda de Autoservicio)
 
 **Resumen:**  
 Diseño y validación de un simulador de compras inspirado en plataformas como Soriana o Walmart, cubriendo todo el flujo desde la selección de productos hasta la confirmación del pedido.
