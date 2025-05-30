@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="foto.jpeg" alt="Foto de Marina" width="200" style="border-radius: 50%;">
+</p>
 
 **QA Manual Tester | QA Automatizado | Quality Assurance Analyst**
 
