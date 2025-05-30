@@ -141,3 +141,20 @@ DevTools, Postman, Charles Proxy, Figma, Excel.
 Cobertura de calidad en tres niveles. Documentación clara y detección oportuna de errores en funciones clave y experiencia de usuario.
 
 📎 [Ver documentación del proyecto](proyectos/proyecto%209)
+
+### 🛒 Proyecto 10 – Simulador de Compras en Línea (Tienda de Autoservicio)
+
+**Resumen:**  
+Diseño y validación de un simulador de compras inspirado en plataformas como Soriana o Walmart, cubriendo todo el flujo desde la selección de productos hasta la confirmación del pedido.
+
+**Rol:**  
+Estructura de flujo mediante mapa mental, definición de criterios de prueba, diseño de casos positivos y negativos.
+
+**Herramientas:**  
+Mapa mental, listas de comprobación, Excel.
+
+**Resultado:**  
+Verificación de múltiples escenarios funcionales y errores comunes. Base útil para pruebas manuales, automatización futura y validaciones de API.
+
+📎 [Ver archivo del proyecto](proyectos/proyecto%2010/proyecto%2010.xlsx)
+
