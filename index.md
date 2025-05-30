@@ -60,6 +60,9 @@ Soy una **QA Tester** con formación y experiencia en pruebas manuales, automati
 - Suite de pruebas de solicitud de taxis  
 - Validación de endpoints con Postman + Apidoc
 
+  Puedes ver mis proyectos completos aquí:  
+[👉 Ver proyectos detallados](proyectos.md)
+
 ---
 
 ## 🌐 Idiomas
