@@ -57,6 +57,23 @@ Análisis de requisitos, diseño de pruebas negativas y positivas, ejecución en
 **Herramientas:**  
 Postman, apiDoc, Google Sheets, Jira.
 
+### 🍽️ Proyecto 5 – Pruebas funcionales en app móvil: Urban.Lunch (Android)
+
+**Resumen:**  
+Pruebas funcionales en la primera versión de Urban.Lunch, enfocadas en pedidos de comida y validación de flujo desde la selección hasta la confirmación de recogida.
+
+**Rol:**  
+Diseño de listas de comprobación, ejecución en emulador y dispositivo Android, validación de interfaz y funcionalidad, reporte de errores en Jira.
+
+**Herramientas:**  
+Android Studio, dispositivo Android, Google Sheets, Jira.
+
+**Resultado:**  
+Detección de errores críticos en navegación y formularios. Validación completa de funcionalidades clave en entorno real.
+
+📎 [Ver archivo del proyecto](proyectos/proyecto%205/proyecto%205.xlsx)
+
+
 **Resultado:**  
 Detección de errores en reglas de negocio y validación de entregas. Documentación clara para seguimiento técnico.
 
