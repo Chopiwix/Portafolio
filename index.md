@@ -1,3 +1,6 @@
+# 👩‍💻 Marina Barreiro Vargas
+
+
 **QA Manual Tester | QA Automatizado | Quality Assurance Analyst**
 
 📍 México  
