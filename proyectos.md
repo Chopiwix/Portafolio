@@ -46,3 +46,18 @@ Documentación estructurada, detección de errores visuales y funcionales, valid
 
 📎 [Ver archivo del proyecto](proyectos/proyecto%203/proyecto%203.docx)
 
+### 📦 Proyecto 4 – Pruebas funcionales de API: Urban.Grocers (Back-end Testing)
+
+**Resumen:**  
+Validación de dos endpoints clave en la plataforma Urban.Grocers para asegurar el correcto funcionamiento del sistema de kits y el servicio Order and Go.
+
+**Rol:**  
+Análisis de requisitos, diseño de pruebas negativas y positivas, ejecución en Postman, validación de respuestas JSON y reporte de errores en Jira.
+
+**Herramientas:**  
+Postman, apiDoc, Google Sheets, Jira.
+
+**Resultado:**  
+Detección de errores en reglas de negocio y validación de entregas. Documentación clara para seguimiento técnico.
+
+📎 [Ver archivo del proyecto](proyectos/proyecto%204/proyecto%204.xlsx)
