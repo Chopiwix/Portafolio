@@ -29,3 +29,20 @@ XMind / draw.io, técnicas de equivalencia y valores límite, documentación est
 Diseño sólido y anticipado de pruebas funcionales, capaz de detectar fallos antes del desarrollo.
 
 📎 [Ver archivo del proyecto](proyectos/proyecto%202/proyecto%202.docx)
+
+### 🖥️ Proyecto 3 – Validación visual y funcional: Módulo de viaje compartido (Cross-browser Testing)
+
+**Resumen:**  
+Pruebas funcionales y de interfaz del módulo “Compartir un automóvil” en diferentes navegadores y resoluciones, validando formulario, método de pago y elementos visuales clave.
+
+**Rol:**  
+Análisis de diseño en Figma, creación de listas de comprobación, pruebas en Chrome y Firefox, documentación de errores en Jira.
+
+**Herramientas:**  
+Figma, Google Sheets, Jira, Google Chrome (800x600), Firefox (1920x1080).
+
+**Resultado:**  
+Documentación estructurada, detección de errores visuales y funcionales, validación exitosa del flujo en múltiples entornos.
+
+📎 [Ver archivo del proyecto](proyectos/proyecto%203/proyecto%203.docx)
+
