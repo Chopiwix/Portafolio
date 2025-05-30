@@ -1,4 +1,4 @@
-### 🚗 Proyecto 1 – Pruebas de regresión en Urban Routes
+## 🚗 Proyecto 1 – Pruebas de regresión en Urban Routes
 
 **Resumen:**  
 Validación de rutas, duraciones y precios en una app de transporte con múltiples modos (automóvil, taxi, bicicleta, scooter, etc.) y tipos de ruta (Óptimo, Flash, Personal).
@@ -14,7 +14,7 @@ Detección de fallos críticos en cálculos, mejorando la experiencia del usuari
 
 📎 [Ver archivo Excel del proyecto](proyectos/proyecto%201/Proyecto%201.xlsx)
 
-### 🤝 Proyecto 2 – Diseño de pruebas funcionales: Viaje compartido en Urban Routes
+## 🤝 Proyecto 2 – Diseño de pruebas funcionales: Viaje compartido en Urban Routes
 
 **Resumen:**  
 Diseño de estrategias de prueba para la futura funcionalidad de viaje compartido, incluyendo lógica de precios, duración y validación del formulario de licencia de conducir.
@@ -30,7 +30,7 @@ Diseño sólido y anticipado de pruebas funcionales, capaz de detectar fallos an
 
 📎 [Ver archivo del proyecto](proyectos/proyecto%202/proyecto%202.docx)
 
-### 🖥️ Proyecto 3 – Validación visual y funcional: Módulo de viaje compartido (Cross-browser Testing)
+## 🖥️ Proyecto 3 – Validación visual y funcional: Módulo de viaje compartido (Cross-browser Testing)
 
 **Resumen:**  
 Pruebas funcionales y de interfaz del módulo “Compartir un automóvil” en diferentes navegadores y resoluciones, validando formulario, método de pago y elementos visuales clave.
@@ -46,7 +46,7 @@ Documentación estructurada, detección de errores visuales y funcionales, valid
 
 📎 [Ver archivo del proyecto](proyectos/proyecto%203/proyecto%203.docx)
 
-### 📦 Proyecto 4 – Pruebas funcionales de API: Urban.Grocers (Back-end Testing)
+## 📦 Proyecto 4 – Pruebas funcionales de API: Urban.Grocers (Back-end Testing)
 
 **Resumen:**  
 Validación de dos endpoints clave en la plataforma Urban.Grocers para asegurar el correcto funcionamiento del sistema de kits y el servicio Order and Go.
@@ -59,7 +59,7 @@ Postman, apiDoc, Google Sheets, Jira.
 
 📎 [Ver archivo del proyecto](proyectos/proyecto%204/proyecto%204.xlsx)
 
-### 🍽️ Proyecto 5 – Pruebas funcionales en app móvil: Urban.Lunch (Android)
+## 🍽️ Proyecto 5 – Pruebas funcionales en app móvil: Urban.Lunch (Android)
 
 **Resumen:**  
 Pruebas funcionales en la primera versión de Urban.Lunch, enfocadas en pedidos de comida y validación de flujo desde la selección hasta la confirmación de recogida.
@@ -79,7 +79,7 @@ Detección de errores críticos en navegación y formularios. Validación comple
 **Resultado:**  
 Detección de errores en reglas de negocio y validación de entregas. Documentación clara para seguimiento técnico.
 
-### 🚕 Proyecto 6 – Análisis de logs y consultas SQL: Sistema de taxis en Chicago
+## 🚕 Proyecto 6 – Análisis de logs y consultas SQL: Sistema de taxis en Chicago
 
 **Resumen:**  
 Simulación de entorno de pruebas para investigar errores mediante logs del sistema y consultas SQL sobre una base de datos real de viajes en taxi en Chicago.
@@ -95,7 +95,7 @@ Identificación de errores HTTP organizados por tipo; validación de hipótesis 
 
 📎 [Ver archivo del proyecto](proyectos/proyecto%206/proyecto%206.docx)
 
-### 🧪 Proyecto 7 – Automatización de pruebas de API: Validación del campo "name" (Urban.Grocers)
+## 🧪 Proyecto 7 – Automatización de pruebas de API: Validación del campo "name" (Urban.Grocers)
 
 **Resumen:**  
 Automatización de pruebas del endpoint `POST /api/v1/kits` para validar el campo `name`, cubriendo entradas válidas, inválidas y límites definidos por los requisitos funcionales.
@@ -109,7 +109,7 @@ Postman o framework de automatización, Git/GitHub, servidor de pruebas TripleTe
 **Resultado:**  
 Automatización completa y reproducible, con cobertura total de escenarios críticos. Repositorio organizado y listo para revisión técnica.
 
-### 🧭 Proyecto 8 – Automatización end-to-end en Urban Routes (Selenium + Python)
+## 🧭 Proyecto 8 – Automatización end-to-end en Urban Routes (Selenium + Python)
 
 **Resumen:**  
 Automatización del flujo completo de solicitud de taxi en la app web Urban Routes usando Selenium y Python, simulando interacciones reales del usuario.
@@ -123,7 +123,7 @@ Python, Selenium, Pytest, Git, GitHub.
 **Resultado:**  
 Pruebas exitosas con cobertura completa del flujo del usuario. Proyecto documentado y publicado en GitHub con README explicativo.
 
-### 🛴 Proyecto 9 – Pruebas integrales en Urban Scooter (Web, Móvil y API)
+## 🛴 Proyecto 9 – Pruebas integrales en Urban Scooter (Web, Móvil y API)
 
 **Resumen:**  
 Evaluación completa de calidad para Urban Scooter, incluyendo pruebas funcionales web, validación de interfaz móvil y verificación de endpoints mediante Postman.
