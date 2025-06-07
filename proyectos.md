@@ -112,6 +112,8 @@ Postman o framework de automatización, Git/GitHub, servidor de pruebas TripleTe
 **Resultado:**  
 Automatización completa y reproducible, con cobertura total de escenarios críticos. Repositorio organizado y listo para revisión técnica.
 
+📎 [Ver archivo del proyecto](https://github.com/Chopiwix/qa-project-Urban-Grocers-app-es)
+
 ## 🧭Automatización end-to-end en Urban Routes (Selenium + Python)
 
 **Resumen:**  
@@ -125,6 +127,8 @@ Python, Selenium, Pytest, Git, GitHub.
 
 **Resultado:**  
 Pruebas exitosas con cobertura completa del flujo del usuario. Proyecto documentado y publicado en GitHub con README explicativo.
+
+📎 [Ver archivo del proyecto](https://github.com/Chopiwix/qa-project-Urban-Routes-es)
 
 ## 🛴Pruebas integrales en Urban Scooter (Web, Móvil y API)
 
