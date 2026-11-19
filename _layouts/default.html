@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#10243a">
+  <meta name="description" content="Portafolio profesional de Marina Barreiro Vargas. QA Manual, automatización con Python, Selenium y Pytest, pruebas de API y documentación de calidad.">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}Marina Barreiro Vargas · QA Tester</title>
+  <link rel="stylesheet" href="{{ '/assets/css/portfolio.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip-link" href="#contenido">Saltar al contenido</a>
+  <header class="topbar">
+    <div class="container topbar-content">
+      <a class="wordmark" href="{{ '/' | relative_url }}"><span class="wordmark-mark">M<span>.</span></span><span>Marina <strong>Barreiro</strong></span></a>
+      <nav class="navigation" aria-label="Navegación principal">
+        <a {% if page.url == '/' or page.url == '/index.html' %}class="current"{% endif %} href="{{ '/' | relative_url }}">Inicio</a>
+        <a {% if page.url contains '/proyectos' %}class="current"{% endif %} href="{{ '/proyectos.html' | relative_url }}">Proyectos</a>
+        <a href="https://github.com/Chopiwix" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+        <a class="nav-contact" href="mailto:marina.trinidad.bv@gmail.com">Contacto</a>
+      </nav>
+    </div>
+  </header>
+  <main id="contenido">{{ content }}</main>
+  <footer class="footer">
+    <div class="container footer-content">
+      <span>© {{ site.time | date: '%Y' }} Marina Barreiro Vargas · Portafolio de QA</span>
+      <div><a href="{{ '/' | relative_url }}">Inicio</a><a href="{{ '/proyectos.html' | relative_url }}">Proyectos</a><a href="mailto:marina.trinidad.bv@gmail.com">Correo</a></div>
+    </div>
+  </footer>
+</body>
+</html>
