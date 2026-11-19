@@ -1,164 +1,109 @@
 ---
-title: Proyectos
+title: Proyectos de QA
 ---
-## 🚗Pruebas de regresión en Urban Routes
 
-**Resumen:**  
-Validación de rutas, duraciones y precios en una app de transporte con múltiples modos (automóvil, taxi, bicicleta, scooter, etc.) y tipos de ruta (Óptimo, Flash, Personal).
+# Proyectos de Quality Assurance
 
-**Rol:**  
-Ejecución de casos de prueba, comparación de resultados esperados vs reales y reporte de errores al equipo de desarrollo.
+Una selección de evidencias de **QA manual, pruebas de API, automatización web, pruebas móviles y análisis de datos**. Cada proyecto explica su objetivo, las técnicas utilizadas y dónde consultar el código o la documentación disponible.
 
-**Herramientas:**  
-Entorno local, documentos de QA, capturas de error, logs.
+[← Volver al inicio](index.html) · [Ver perfil GitHub](https://github.com/Chopiwix)
 
-**Resultado:**  
-Detección de fallos críticos en cálculos, mejorando la experiencia del usuario antes del despliegue.
+---
 
-📎 [Ver archivo Excel del proyecto](proyectos/proyecto%201/Proyecto%201.xlsx)
+## ⭐ Proyectos destacados — Código disponible
 
-## 🤝Diseño de pruebas funcionales: Viaje compartido en Urban Routes
+### 🚕 Urban Routes | Automatización web
 
-**Resumen:**  
-Diseño de estrategias de prueba para la futura funcionalidad de viaje compartido, incluyendo lógica de precios, duración y validación del formulario de licencia de conducir.
+**Objetivo:** automatizar escenarios de una solicitud de taxi en la aplicación web Urban Routes.
 
-**Rol:**  
-Análisis de requisitos, mapeo visual de lógica interna, definición de clases de equivalencia y redacción de casos de prueba.
+**Tecnologías:** Python, Selenium WebDriver, Pytest y XPath.
 
-**Herramientas:**  
-XMind / draw.io, técnicas de equivalencia y valores límite, documentación estructurada.
+**Qué contiene:** pruebas de rutas, tarifa Comfort, teléfono, tarjeta de pago, mensaje al conductor, opciones adicionales y búsqueda de vehículo. El código emplea clases de página, esperas y aserciones.
 
-**Resultado:**  
-Diseño sólido y anticipado de pruebas funcionales, capaz de detectar fallos antes del desarrollo.
+**Evidencia:** [Repositorio y README técnico](https://github.com/Chopiwix/qa-project-Urban-Routes-es)
 
-📎 [Ver archivo del proyecto](proyectos/proyecto%202/proyecto%202.docx)
+### 🧪 Urban Grocers | Pruebas automatizadas de API REST
 
-## 🖥️Validación visual y funcional: Módulo de viaje compartido (Cross-browser Testing)
+**Objetivo:** verificar el campo `name` durante la creación de kits mediante `POST /api/v1/kits`.
 
-**Resumen:**  
-Pruebas funcionales y de interfaz del módulo “Compartir un automóvil” en diferentes navegadores y resoluciones, validando formulario, método de pago y elementos visuales clave.
+**Tecnologías:** Python, Requests y Pytest.
 
-**Rol:**  
-Análisis de diseño en Figma, creación de listas de comprobación, pruebas en Chrome y Firefox, documentación de errores en Jira.
+**Qué contiene:** nueve escenarios parametrizados con valores válidos, inválidos y límites de longitud. Se comparan los códigos HTTP recibidos con los esperados.
 
-**Herramientas:**  
-Figma, Google Sheets, Jira, Google Chrome (800x600), Firefox (1920x1080).
+**Evidencia:** [Repositorio y README técnico](https://github.com/Chopiwix/qa-project-Urban-Grocers-app-es)
 
-**Resultado:**  
-Documentación estructurada, detección de errores visuales y funcionales, validación exitosa del flujo en múltiples entornos.
+---
 
-📎 [Ver archivo del proyecto](proyectos/proyecto%203/proyecto%203.docx)
+## 🗂️ Pruebas manuales y documentación
 
-## 📦Pruebas funcionales de API: Urban.Grocers (Back-end Testing)
+### 01 · Urban Routes | Pruebas funcionales y regresión
 
-**Resumen:**  
-Validación de dos endpoints clave en la plataforma Urban.Grocers para asegurar el correcto funcionamiento del sistema de kits y el servicio Order and Go.
+Diseño y ejecución de comprobaciones para rutas, duraciones y precios en una aplicación de transporte. Incluye comparación de resultados esperados y obtenidos, y documentación de incidencias.
 
-**Rol:**  
-Análisis de requisitos, diseño de pruebas negativas y positivas, ejecución en Postman, validación de respuestas JSON y reporte de errores en Jira.
+**Enfoque:** QA manual · pruebas funcionales · regresión.
 
-**Herramientas:**  
-Postman, apiDoc, Google Sheets, Jira.
+[Ver archivo de evidencia](proyectos/proyecto%201/Proyecto%201.xlsx)
 
-📎 [Ver archivo del proyecto](proyectos/proyecto%204/proyecto%204.xlsx)
+### 02 · Urban Routes | Diseño de pruebas de viaje compartido
 
-## 🍽️Pruebas funcionales en app móvil: Urban.Lunch (Android)
+Análisis de requisitos para la funcionalidad de viaje compartido, con clases de equivalencia, valores límite y casos de prueba para el formulario y la lógica de la funcionalidad.
 
-**Resumen:**  
-Pruebas funcionales en la primera versión de Urban.Lunch, enfocadas en pedidos de comida y validación de flujo desde la selección hasta la confirmación de recogida.
+**Enfoque:** análisis de requisitos · diseño de pruebas · clases de equivalencia.
 
-**Rol:**  
-Diseño de listas de comprobación, ejecución en emulador y dispositivo Android, validación de interfaz y funcionalidad, reporte de errores en Jira.
+[Ver documento](proyectos/proyecto%202/proyecto%202.docx)
 
-**Herramientas:**  
-Android Studio, dispositivo Android, Google Sheets, Jira.
+### 03 · Urban Routes | Validación de interfaz entre navegadores
 
-**Resultado:**  
-Detección de errores críticos en navegación y formularios. Validación completa de funcionalidades clave en entorno real.
+Revisión visual y funcional del módulo de viaje compartido en navegadores y resoluciones diferentes, con listas de comprobación y documentación de defectos.
 
-📎 [Ver archivo del proyecto](proyectos/proyecto%205/proyecto%205.xlsx)
+**Herramientas descritas:** Figma · Chrome · Firefox · Jira.
 
+[Ver documento](proyectos/proyecto%203/proyecto%203.docx)
 
-**Resultado:**  
-Detección de errores en reglas de negocio y validación de entregas. Documentación clara para seguimiento técnico.
+### 04 · Urban Grocers | Pruebas manuales de API
 
-## 🚕Análisis de logs y consultas SQL: Sistema de taxis en Chicago
+Ejercicios de validación de endpoints de la plataforma, solicitudes con Postman, análisis de respuestas JSON y reporte de incidencias.
 
-**Resumen:**  
-Simulación de entorno de pruebas para investigar errores mediante logs del sistema y consultas SQL sobre una base de datos real de viajes en taxi en Chicago.
+**Herramientas descritas:** Postman · apiDoc · Jira.
 
-**Rol:**  
-Extracción y organización de errores desde consola Linux; análisis SQL para detectar inconsistencias en datos de flota, clima y viajes.
+[Ver archivo de evidencia](proyectos/proyecto%204/proyecto%204.xlsx)
 
-**Herramientas:**  
-Terminal Linux (bash), PostgreSQL, comandos como `grep`, `awk`, `JOIN`, `GROUP BY`, `CASE`.
+### 05 · Urban Lunch | Pruebas de aplicación Android
 
-**Resultado:**  
-Identificación de errores HTTP organizados por tipo; validación de hipótesis sobre disponibilidad de taxis y condiciones climáticas.
+Diseño de checklists y revisión de flujos de pedido y recogida de comida en una aplicación móvil.
 
-📎 [Ver archivo del proyecto](proyectos/proyecto%206/proyecto%206.docx)
+**Herramientas descritas:** Android Studio · Jira · Google Sheets.
 
-## 🧪Automatización de pruebas de API: Validación del campo "name" (Urban.Grocers)
+[Ver archivo de evidencia](proyectos/proyecto%205/proyecto%205.xlsx)
 
-**Resumen:**  
-Automatización de pruebas del endpoint `POST /api/v1/kits` para validar el campo `name`, cubriendo entradas válidas, inválidas y límites definidos por los requisitos funcionales.
+### 06 · Sistema de taxis de Chicago | Logs y SQL
 
-**Rol:**  
-Diseño y ejecución de pruebas automatizadas autenticadas, validación de respuestas del servidor, control de versiones con GitHub.
+Ejercicios de análisis de registros del sistema y consultas SQL para investigar información de viajes en taxi.
 
-**Herramientas:**  
-Postman o framework de automatización, Git/GitHub, servidor de pruebas TripleTen, documentación API (apiDoc).
+**Conocimientos descritos:** Linux · PostgreSQL · JOIN · GROUP BY · CASE.
 
-**Resultado:**  
-Automatización completa y reproducible, con cobertura total de escenarios críticos. Repositorio organizado y listo para revisión técnica.
+[Ver documento](proyectos/proyecto%206/proyecto%206.docx)
 
-📎 [Ver archivo del proyecto](https://github.com/Chopiwix/qa-project-Urban-Grocers-app-es)
+### 07 · Urban Scooter | Pruebas web, móvil y API
 
-## 🧭Automatización end-to-end en Urban Routes (Selenium + Python)
+Ejercicios de validación funcional y visual y revisión de solicitudes API, apoyados en análisis de requisitos y herramientas de depuración.
 
-**Resumen:**  
-Automatización del flujo completo de solicitud de taxi en la app web Urban Routes usando Selenium y Python, simulando interacciones reales del usuario.
+**Herramientas descritas:** DevTools · Postman · Charles Proxy · Figma.
 
-**Rol:**  
-Configuración del entorno local, implementación con Page Object Model, ejecución de pruebas end-to-end desde origen hasta asignación de conductor.
+[Ver evidencias del proyecto](proyectos/proyecto%209/)
 
-**Herramientas:**  
-Python, Selenium, Pytest, Git, GitHub.
+### 08 · Simulador de compras en línea | Casos funcionales
 
-**Resultado:**  
-Pruebas exitosas con cobertura completa del flujo del usuario. Proyecto documentado y publicado en GitHub con README explicativo.
+Diseño de escenarios positivos y negativos para un flujo de compra, desde selección de productos hasta confirmación del pedido.
 
-📎 [Ver archivo del proyecto](https://github.com/Chopiwix/qa-project-Urban-Routes-es)
+**Enfoque:** casos de prueba · checklists · análisis de flujos.
 
-## 🛴Pruebas integrales en Urban Scooter (Web, Móvil y API)
+[Ver archivo de evidencia](proyectos/proyecto%2010/proyecto%2010.xlsx)
 
-**Resumen:**  
-Evaluación completa de calidad para Urban Scooter, incluyendo pruebas funcionales web, validación de interfaz móvil y verificación de endpoints mediante Postman.
+---
 
-**Rol:**  
-Diseño y ejecución de pruebas funcionales, visuales y de API; uso de clases de equivalencia, tablas de decisión y herramientas como Charles Proxy y Figma.
+### Sobre las evidencias
 
-**Herramientas:**  
-DevTools, Postman, Charles Proxy, Figma, Excel.
+Estos trabajos forman parte de mi **portafolio de aprendizaje y práctica en QA**. Los repositorios enlazan al código fuente, y los demás proyectos incluyen documentos de trabajo. La existencia de un caso de prueba o de un resultado esperado no implica que la aplicación siga disponible o que las pruebas se hayan ejecutado recientemente.
 
-**Resultado:**  
-Cobertura de calidad en tres niveles. Documentación clara y detección oportuna de errores en funciones clave y experiencia de usuario.
-
-📎 [Ver documentación del proyecto](proyectos/proyecto%209)
-
-## 🛒Simulador de Compras en Línea (Tienda de Autoservicio)
-
-**Resumen:**  
-Diseño y validación de un simulador de compras inspirado en plataformas como Soriana o Walmart, cubriendo todo el flujo desde la selección de productos hasta la confirmación del pedido.
-
-**Rol:**  
-Estructura de flujo mediante mapa mental, definición de criterios de prueba, diseño de casos positivos y negativos.
-
-**Herramientas:**  
-Mapa mental, listas de comprobación, Excel.
-
-**Resultado:**  
-Verificación de múltiples escenarios funcionales y errores comunes. Base útil para pruebas manuales, automatización futura y validaciones de API.
-
-📎 [Ver archivo del proyecto](proyectos/proyecto%2010/proyecto%2010.xlsx)
-
+[🏠 Inicio](index.html) · [💻 GitHub](https://github.com/Chopiwix) · [✉️ Contacto](mailto:marina.trinidad.bv@gmail.com)
