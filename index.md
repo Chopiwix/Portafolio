@@ -18,7 +18,7 @@ permalink: /
       </div>
     </div>
     <div class="avatar-wrap">
-      <img class="avatar" src="{{ '/assets/img/marina-perfil.svg' | relative_url }}" alt="Fotografía de Marina Barreiro Vargas" onerror="this.onerror=null;this.src='{{ '/foto.jpeg' | relative_url }}';">
+      <img class="avatar" src="{{ '/assets/img/marina-perfil.jpg' | relative_url }}" alt="Fotografía de Marina Barreiro Vargas" onerror="this.onerror=null;this.src='{{ '/foto.jpeg' | relative_url }}';">
     </div>
   </div>
 </section>
