@@ -1,74 +1,78 @@
-<p align="center">
-  <img src="foto.jpeg" alt="Foto de Marina" width="200" style="border-radius: 50%;">
-</p>
+---
+title: Inicio
+---
 
-**QA Manual Tester | QA Automatizado | Quality Assurance Analyst**
+<div align="center">
+  <img src="foto.jpeg" alt="Fotografía de Marina Barreiro Vargas" width="155" style="border-radius:50%;">
 
-📍 México  
-📧 marinitachii01@gmail.com  
-📞 +52 999 580 1277  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mi%20Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/marina-barreiro-316a2b2a2/)  
+  # Marina Barreiro Vargas
+
+  **QA Tester Junior · QA Manual · API Testing · Automatización con Python**
+
+  *Pruebas que detectan problemas. Documentación que ayuda a resolverlos.*
+
+  [![GitHub](https://img.shields.io/badge/GitHub-Código%20y%20repositorios-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chopiwix)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-barreiro-vargas/)
+  [![Contacto](https://img.shields.io/badge/Contacto-Email-217C77?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marina.trinidad.bv@gmail.com)
+</div>
 
 ---
 
-## 🧠 Sobre mí
+## Sobre mí
 
-Soy una **QA Tester** con formación y experiencia en pruebas manuales, automatizadas y de APIs. Me especializo en asegurar la calidad de aplicaciones web y móviles, identificando zonas grises en los requisitos y documentando de forma precisa. Busco aportar valor en equipos ágiles enfocados en mejora continua y experiencia del usuario.
+Soy **QA Tester Junior** con formación en Quality Assurance Engineering y proyectos documentados de **pruebas manuales, automatización web y API REST**. Me interesa analizar requisitos, encontrar escenarios límite, ejecutar validaciones reproducibles y comunicar incidencias de forma clara.
 
----
+Mi experiencia previa en coordinación de procesos y Psicología complementa mi trabajo técnico con atención al detalle, organización y comunicación.
 
-## 🛠 Habilidades Técnicas
+## Habilidades técnicas
 
-- ✅ Pruebas funcionales manuales y automatizadas (web y móvil)
-- ✅ Diseño y ejecución de casos de prueba, regresión, humo
-- ✅ Validaciones con SQL y lectura de diagramas ER
-- ✅ Pruebas de API con Postman, documentación en Apidoc
-- ✅ Automatización básica con Selenium y Python
-- ✅ Gestión de errores y documentación en JIRA
-- ✅ Uso de DevTools, emuladores, Git, GitHub
+| Especialidad | Herramientas y prácticas |
+| --- | --- |
+| **QA manual** | Diseño de casos de prueba, checklists, pruebas funcionales, regresión, clases de equivalencia y valores límite |
+| **Automatización web** | Python, Selenium WebDriver, Pytest, XPath, esperas explícitas |
+| **Pruebas de API** | HTTP, JSON, Postman, Python Requests, validación de códigos de estado |
+| **Análisis y seguimiento** | Jira, Git/GitHub, SQL básico, revisión de logs y documentación |
 
----
+## Proyectos que puedes explorar
 
-## 💼 Experiencia Técnica
+### 🚕 Urban Routes — Automatización de interfaz web
 
-**Analista QA | Practicum Bootcamp - TripleTen**  
-*Septiembre 2024 – Abril 2025*
+Automatización de escenarios del flujo de solicitud de taxi: configuración de ruta, selección de tarifa, confirmación telefónica, pago y opciones adicionales. Código organizado en clases y validaciones con Pytest.
 
-- +100 casos de prueba manuales y automatizados
-- Validación de APIs con Postman
-- Automatización con Selenium
-- Gestión de bugs con JIRA
-- Validaciones con SQL
-- Documentación técnica clara y útil en GitHub
+**Python · Selenium WebDriver · Pytest · XPath**
 
----
+[Ver código y README](https://github.com/Chopiwix/qa-project-Urban-Routes-es)
 
-## 🎓 Educación
+### 🧪 Urban Grocers — Pruebas automatizadas de API
 
-- QA Engineering – TripleTen Bootcamp (2025)  
-- Licenciatura en Psicología – CEUM, Mérida Yuc. (2022)  
-- Técnica en Recursos Humanos – CBTIS 120 (2018)  
-- Diplomado en TCC – ILEP Online (2022)
+Nueve escenarios parametrizados de creación de kits: valores válidos, vacíos, longitudes límite y tipos inválidos. Se utilizan solicitudes HTTP y aserciones sobre los códigos de respuesta esperados.
 
----
+**Python · Requests · Pytest · API REST**
 
-## 🚀 Proyectos Destacados
+[Ver código y README](https://github.com/Chopiwix/qa-project-Urban-Grocers-app-es)
 
-- Pruebas Smoke y Regresión para Urban.Routes  
-- Pruebas multiplataforma para Urban.Lunch & Urban.Scooter  
-- Automatización de creación de kits – Urban.Grocers  
-- Suite de pruebas de solicitud de taxis  
-- Validación de endpoints con Postman + Apidoc
+### 📋 QA manual, móvil, SQL y análisis de requisitos
 
-  Puedes ver mis proyectos completos aquí:  
-[👉 Ver proyectos detallados](proyectos.md)
+Además de la automatización, el portafolio reúne documentación de diseño y ejecución de pruebas funcionales, pruebas de API con Postman, validaciones en Android y ejercicios de análisis de logs y SQL.
+
+[Explorar todos los proyectos](proyectos.html)
 
 ---
 
-## 🌐 Idiomas
+## Mi forma de trabajar
 
-- Inglés B1 – Lectura técnica fluida, comprensión de documentación
+**1. Analizar requisitos** → **2. Diseñar escenarios** → **3. Ejecutar y validar** → **4. Documentar hallazgos** → **5. Dar seguimiento**
 
----
+## Formación
 
-_Gracias por visitar mi perfil. Siempre abierta a nuevos desafíos y oportunidades en QA._  
+- **Quality Assurance Engineering**, TripleTen (2025).
+- **Licenciatura en Psicología**, CEUM (2022).
+- **Técnica en Administración de Recursos Humanos**, CBTIS 120 (2018).
+
+## Hablemos
+
+Estoy interesada en oportunidades como **QA Tester Junior, QA Manual y posiciones iniciales de automatización**.
+
+**México** · [Email](mailto:marina.trinidad.bv@gmail.com) · [LinkedIn](https://www.linkedin.com/in/marina-barreiro-vargas/) · [GitHub](https://github.com/Chopiwix)
+
+<small>Este sitio presenta proyectos de práctica y código publicado. Los detalles técnicos y los archivos de evidencia se encuentran en los enlaces de cada proyecto.</small>
