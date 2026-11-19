@@ -106,3 +106,11 @@ a:focus-visible { outline:3px solid #41d4c1; outline-offset:3px }
  .footer-content { flex-direction:column; align-items:flex-start }
 }
 @media (prefers-reduced-motion:reduce) { html {scroll-behavior:auto} .button {transition:none} }
+
+
+/* Dirección de contacto visible, seleccionable y legible sin aplicaciones de correo */
+#contacto { scroll-margin-top:22px }
+.contact-email-block { display:flex; flex-direction:column; align-items:flex-start; gap:5px; background:rgba(255,255,255,.08); border:1px solid rgba(156,229,221,.34); border-radius:12px; padding:17px 20px; margin:16px 0 21px; max-width:580px }
+.contact-email-label { font-size:12px; text-transform:uppercase; letter-spacing:.09em; color:#a2e7de; font-weight:800 }
+.contact-email { color:#fff; font-size:clamp(17px,2.3vw,23px); font-weight:750; letter-spacing:-.015em; overflow-wrap:anywhere; user-select:text; -webkit-user-select:text; cursor:text }
+.contact-email-hint { color:#d0e6e8; font-size:12px }
