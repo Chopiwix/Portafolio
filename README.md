@@ -1,16 +1,20 @@
-# GitHub Pages
+# Portafolio de QA — Marina Barreiro Vargas
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+Sitio profesional con proyectos de **QA Manual, pruebas de API, automatización web, pruebas móviles y SQL**.
 
-Hey @Chopiwix!
+🌐 **[Visitar portafolio](https://chopiwix.github.io/Portafolio/)**
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+## Explorar
 
-Remember, it's self-paced so feel free to take a break! ☕️
+- [Página de presentación](index.md)
+- [Catálogo de proyectos y evidencias](proyectos.md)
+- [Automatización web: Urban Routes](https://github.com/Chopiwix/qa-project-Urban-Routes-es)
+- [API Testing: Urban Grocers](https://github.com/Chopiwix/qa-project-Urban-Grocers-app-es)
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Chopiwix/Portafolio/issues/1)
+## Acerca de este repositorio
 
----
+La página se publica mediante GitHub Pages y Jekyll. Los archivos de práctica se encuentran en la carpeta [`proyectos/`](proyectos/).
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+**Contacto:** [LinkedIn](https://www.linkedin.com/in/marina-barreiro-vargas/) · [Email](mailto:marina.trinidad.bv@gmail.com)
 
+> Los materiales corresponden a proyectos de práctica. No se presentan como experiencia laboral formal ni como ejecuciones de pruebas verificadas recientemente.
