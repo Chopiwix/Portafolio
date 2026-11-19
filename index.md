@@ -14,7 +14,7 @@ permalink: /
       <div class="actions">
         <a class="button button-primary" href="{{ '/proyectos.html' | relative_url }}">Explorar proyectos <span aria-hidden="true">↗</span></a>
         <a class="button button-outline" href="https://github.com/Chopiwix" target="_blank" rel="noopener noreferrer">Ver GitHub ↗</a>
-        <a class="button button-outline" href="mailto:marina.trinidad.bv@gmail.com">Contactarme</a>
+        <a class="button button-outline" href="#contacto">Ver contacto ↓</a>
       </div>
     </div>
     <div class="avatar-wrap">
@@ -102,13 +102,17 @@ permalink: /
   </div>
 </section>
 
-<section class="section-small">
+<section class="section-small" id="contacto">
   <div class="container">
     <div class="dark-callout">
       <h2>¿Buscas una QA Tester Junior?</h2>
-      <p>Me interesan oportunidades de QA Manual y posiciones iniciales de automatización. Puedes consultar mis proyectos o escribirme directamente.</p>
+      <p>Me interesan oportunidades de QA Manual y posiciones iniciales de automatización. Puedes copiar mi dirección de correo para contactarme o visitar mi LinkedIn.</p>
+      <div class="contact-email-block">
+        <span class="contact-email-label">Correo electrónico</span>
+        <span class="contact-email">marina.trinidad.bv@gmail.com</span>
+        <span class="contact-email-hint">Selecciona y copia la dirección para escribirme.</span>
+      </div>
       <div class="actions">
-        <a class="button button-primary" href="mailto:marina.trinidad.bv@gmail.com">Enviar correo ↗</a>
         <a class="button button-outline" href="https://www.linkedin.com/in/marina-barreiro-vargas/" target="_blank" rel="noopener noreferrer">Visitar LinkedIn ↗</a>
       </div>
     </div>
