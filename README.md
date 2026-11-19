@@ -15,6 +15,6 @@ Sitio profesional con proyectos de **QA Manual, pruebas de API, automatización 
 
 La página se publica mediante GitHub Pages y Jekyll. Los archivos de práctica se encuentran en la carpeta [`proyectos/`](proyectos/).
 
-**Contacto:** [LinkedIn](https://www.linkedin.com/in/marina-barreiro-vargas/) · [Email](mailto:marina.trinidad.bv@gmail.com)
+**Contacto:** [LinkedIn](https://www.linkedin.com/in/marina-barreiro-vargas/) · Correo: `marina.trinidad.bv@gmail.com`
 
 > Los materiales corresponden a proyectos de práctica. No se presentan como experiencia laboral formal ni como ejecuciones de pruebas verificadas recientemente.
