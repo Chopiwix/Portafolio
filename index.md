@@ -110,7 +110,7 @@ permalink: /
       <div class="contact-email-block">
         <span class="contact-email-label">Correo electrónico</span>
         <span class="contact-email">marina.trinidad.bv@gmail.com</span>
-        <span class="contact-email-hint">Selecciona y copia la dirección para escribirme.</span>
+        
       </div>
       <div class="actions">
         <a class="button button-outline" href="https://www.linkedin.com/in/marina-barreiro-vargas/" target="_blank" rel="noopener noreferrer">Visitar LinkedIn ↗</a>
